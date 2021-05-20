@@ -15,3 +15,31 @@
     border-bottom-left-radius: 1rem;
 }
 
+.btn_trans
+{
+        color: violet;
+       background-color: #3c873a;
+       align-content: center;
+     
+       
+}
+
+.hero-icon {
+    max-width: 30%;
+    height: 2rem;
+    width: 2rem;
+    display: block;
+    margin: auto;
+    
+
+}
+
+
+
+.footer {
+    background-color: var(--primary-color);
+    padding: 4rem 1rem;
+    text-align: center;
+    color: white;
+    border-top-right-radius: 1rem;
+}
