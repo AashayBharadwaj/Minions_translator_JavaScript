@@ -1,0 +1,17 @@
+:root {
+    --primary-color: #ede13a;
+    --off-white: #F3F4F6;
+    --dark-gray: #6B7280;
+    --node-color: #3c873a;
+    --react-color: #61DBFB;
+}
+
+
+.navigation {
+    background-color: var(--primary-color);
+
+    color: black;
+    padding: 1rem;
+    border-bottom-left-radius: 1rem;
+}
+
